@@ -20,11 +20,12 @@ CSS
 JavaScript
 
 🔗 Live Links
-Portfolio: 
 
-Landing Page:
+Portfolio: https://loshithanavyaspurthithummala-tech.github.io/codsoft/Task1-Portfolio/
 
-Calculator: 
+Landing Page:https://loshithanavyaspurthithummala-tech.github.io/codsoft/Task2-LandingPage/
+
+Calculator: https://loshithanavyaspurthithummala-tech.github.io/codsoft/Task3-Calculator/
 
 🎓 Internship
 
